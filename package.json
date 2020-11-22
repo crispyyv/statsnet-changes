@@ -1,0 +1,22 @@
+{
+  "name": "statsnet-reworks",
+  "version": "1.0.0",
+  "description": "**One change - one branch**",
+  "main": "index.js",
+  "scripts": {
+    "dev": "snowpack dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crispyyv/statsnet-changes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crispyyv/statsnet-changes/issues"
+  },
+  "homepage": "https://github.com/crispyyv/statsnet-changes#readme",
+  "devDependencies": {
+    "snowpack": "^2.17.1"
+  }
+}
